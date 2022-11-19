@@ -5,5 +5,7 @@ Official repo for the article "Morally Driven and Emotionally Fueled: The Intera
 Please cite as:
 
     Wang, Yunwen, Yusi Aveva Xu, Jiaxi Wu, Hye Min Kim, Jessica L. Fetterman, Traci Hong, and Margaret L. McLaughlin. "Moralization of E-cigarette Use and Regulation: A Mixed-Method Computational Analysis of Opinion Polarization." _Health Communication _(2022): 1-11.
+    
+    Wang et al. (2022)
 
 Code will be released soon.
