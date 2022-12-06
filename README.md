@@ -19,6 +19,7 @@ Please cite as:
 We have provided the envinroment file for conda users. 
 ```shell
 conda env create -f environment.yml
+conda activate vaping-moralizer
 ```
 Installing en_core_web_sm by using
 ```shell
