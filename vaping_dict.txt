@@ -1,0 +1,26 @@
+moral_foundations_dictionary_new = {
+"care":
+
+ {"virtue": ["saved", "live", "concern", "save", "like", "likes", "liked", "thank", "harmless", "concerned", "safer", "stable", "likes", "fingers crossed", "understand", "protect", "concerns", "understanding", "stability", "heart", "life", "lives"],
+ "vice": ["malfunctioning", "Diabetic", "horrid", "push", "malfunction", "insult", "troll", "freaking out", "bullet", "awful", "OD", "war", "gun", "death", "deaths", "instable", "Fascism", "danger", "refugee", "Xenophobia", "shooting", "conspiracy", "blame", "hate", "died", "opioids", "instability", "fear mongering", "cancer", "outbreak", "EVALI", "vaping-related lung injury"]},
+
+"fairness":
+
+ {"virtue": ["freedom", "and not", "equally", "tax free", "the wealthy", "privilege", "but not", "meanwhile", "free will", "exact same", "distinction", "privileged"],
+ "vice": ["interest groups", "interest group", "capital", "capitals", "pretend", "pretended", "pretending", "ploy", "culprit", "monger", "profit", "lie", "drivel", "delude", "falsehood", "big corp", "deluded", "big tobacco", "tobacco companies", "tobacco company", "billion", "billions"]},
+
+"loyalty":
+
+ {"virtue": ["the children", "national", "ideology", "brown people", "craze", "school children", "the general public", "tobacco companies", "our", "friends", "soldiers", "tobacco lobbyists", "the next generation", "the media",  "interest groups", "American", "the kids", "worship", "fan", "movement", "national security", "the people"],
+ "vice": ["un-American", "leaking", "them"]},
+
+"authority":
+
+ {"virtue": ["gov",
+ "representatives", "restriction", "law", "abiding", "legislation", "political", "allow", "vote", "restrict", "party", "promote", "fascism", "vp", "tax", "corporate", "ban", "politics", "strict", "telling", "power", "rule", "fee", "EU", "petition", "sheeples", "government", "crime", "convert", "agenda", "regulator", "regulatory", "companies", "FDA", "enforce", "penalty", "license", "penalties", "amendment", "criminal", "Immigration and Customs Enforcement", "lobbying", "lobbyists", "in the pocket of", "lobby", "donors", "interest group", "agree", "lobbyist", "bipartisan", "soldiers", "Governor", "Republican", "official", "politicians", "illegality", "Trump", "corporation", "company", "restricting", "abide by", "prohibition", "educate", "system", "prison", " Washington", "industry", "state", "states", "bonds", "science", "election", "ICE", "force", "promoting", "big tobacco", "big corp", "illegal", "suspend", "intern", "Trump's VP", "anti-libertarian", "administration", "vape-ban"],
+ "vice": ["let live", "criminals", "intent to sell", "breaking laws", "move on", "libertarian", "freedom", "gun"]},
+
+"sanctity":
+
+ {"virtue": ["honestly", "teenage", "kids", "children"],
+ "vice": ["nicotine", "nic", "nics", "marijuana", "lump", "psychotropics", "thx carts", "tetrahydrocannabinol", "terps", "bodies", "toxic", "booze", "polluted", "dumbass", "terpenes", "craving", "MCT", "etoh", "black market", "blackmarket", "stupid", "weed", "prolife", "OD", " asshole", "dab pens", "vitamin E", "culprit", "overdose", "terpene", "idiotic", "dab", "cocaine", "chemicals", "gay", "bullshit", "bs", "poorly made", "dumb", "liquor", "pathetic", "improperly made", "cloudy", "clinics", "THC", "sub ohm", "acetate", "pro life", "pro-life", "do nothing", "crap", "evil", "sick", "buzz", "VG", "Vegetable Glycerin", "PG", "Propylene Glycol", "wick", "vitamin e acetate"]}}

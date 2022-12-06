@@ -5,6 +5,8 @@ Official repo for the following two articles:
 
 2) "Morally Driven and Emotionally Fueled: The Interactive Effects of Values and Emotions in the Social Transmission of Information Endorsing E-Cigarettes," which will be published in the _International Journal of Communication_ (IJoC). 
 
+The code is modified from https://github.com/npmontgomery/moralizer.
+
 
 Please cite as:
 
@@ -12,4 +14,20 @@ Please cite as:
     
     Wang et al. (2022)
 
-Code will be released soon.
+## Installation
+
+We have provided the envinroment file for conda users. 
+```shell
+conda env create -f environment.yml
+```
+Installing en_core_web_sm by using
+```shell
+python -m spacy download en_core_web_sm
+```
+
+## Usage
+
+Please see usage_sample.ipynb for reference. 
+
+
+
