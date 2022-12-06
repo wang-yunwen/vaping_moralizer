@@ -8,7 +8,7 @@ Official repo for the following two articles:
 
 Please cite as:
 
-    Wang, Yunwen, Yusi Aveva Xu, Jiaxi Wu, Hye Min Kim, Jessica L. Fetterman, Traci Hong, and Margaret L. McLaughlin. "Moralization of E-cigarette Use and Regulation: A Mixed-Method Computational Analysis of Opinion Polarization." Health Communication (2022): 1-11. https://doi.org/10.1080/10410236.2022.2027640 
+    Yunwen Wang, Yusi Aveva Xu, Jiaxi Wu, Hye Min Kim, Jessica L. Fetterman, Traci Hong, and Margaret L. McLaughlin. "Moralization of E-cigarette Use and Regulation: A Mixed-Method Computational Analysis of Opinion Polarization." Health Communication (2022): 1-11. https://doi.org/10.1080/10410236.2022.2027640 
     
     Wang et al. (2022)
 
