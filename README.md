@@ -32,7 +32,7 @@ python -m spacy download en_core_web_sm
 
 ## Usage
 
-Please see usage_sample.ipynb for reference. 
+Please see [usage_sample.ipynb](https://github.com/wang-yunwen/vaping_moralizer/blob/main/usage_sample.ipynb) for reference. 
 
 
 
