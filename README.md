@@ -14,6 +14,10 @@ Please cite as:
     
     Wang et al. (2022)
 
+## Description 
+
+Vaping-Moralizer returns word counts of a text based on the [Moral Foundations Vocabulary 2.0](https://osf.io/ezn37/) and our [Vaping dictionary] (https://github.com/wang-yunwen/vaping_moralizer/blob/main/vaping_dict.txt)
+
 ## Installation
 
 We have provided the envinroment file for conda users. 
